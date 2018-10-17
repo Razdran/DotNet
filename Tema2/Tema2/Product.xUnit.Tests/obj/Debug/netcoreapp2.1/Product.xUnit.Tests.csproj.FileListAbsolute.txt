@@ -1,0 +1,17 @@
+C:\Users\martf\Desktop\Tema1\Tema1\Product.xUnit.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\martf\Desktop\Tema1\Tema1\Product.xUnit.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\martf\Desktop\Tema1\Tema1\Product.xUnit.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\martf\Desktop\Tema1\Tema1\Product.xUnit.Tests\bin\Debug\netcoreapp2.1\Product.xUnit.Tests.deps.json
+C:\Users\martf\Desktop\Tema1\Tema1\Product.xUnit.Tests\bin\Debug\netcoreapp2.1\Product.xUnit.Tests.runtimeconfig.json
+C:\Users\martf\Desktop\Tema1\Tema1\Product.xUnit.Tests\bin\Debug\netcoreapp2.1\Product.xUnit.Tests.runtimeconfig.dev.json
+C:\Users\martf\Desktop\Tema1\Tema1\Product.xUnit.Tests\bin\Debug\netcoreapp2.1\Product.xUnit.Tests.dll
+C:\Users\martf\Desktop\Tema1\Tema1\Product.xUnit.Tests\bin\Debug\netcoreapp2.1\Product.xUnit.Tests.pdb
+C:\Users\martf\Desktop\Tema1\Tema1\Product.xUnit.Tests\bin\Debug\netcoreapp2.1\Product.Data.dll
+C:\Users\martf\Desktop\Tema1\Tema1\Product.xUnit.Tests\bin\Debug\netcoreapp2.1\Product.Data.pdb
+C:\Users\martf\Desktop\Tema1\Tema1\Product.xUnit.Tests\obj\Debug\netcoreapp2.1\Product.xUnit.Tests.csprojAssemblyReference.cache
+C:\Users\martf\Desktop\Tema1\Tema1\Product.xUnit.Tests\obj\Debug\netcoreapp2.1\Product.xUnit.Tests.csproj.CoreCompileInputs.cache
+C:\Users\martf\Desktop\Tema1\Tema1\Product.xUnit.Tests\obj\Debug\netcoreapp2.1\Product.xUnit.Tests.AssemblyInfoInputs.cache
+C:\Users\martf\Desktop\Tema1\Tema1\Product.xUnit.Tests\obj\Debug\netcoreapp2.1\Product.xUnit.Tests.AssemblyInfo.cs
+C:\Users\martf\Desktop\Tema1\Tema1\Product.xUnit.Tests\obj\Debug\netcoreapp2.1\Product.xUnit.Tests.csproj.CopyComplete
+C:\Users\martf\Desktop\Tema1\Tema1\Product.xUnit.Tests\obj\Debug\netcoreapp2.1\Product.xUnit.Tests.dll
+C:\Users\martf\Desktop\Tema1\Tema1\Product.xUnit.Tests\obj\Debug\netcoreapp2.1\Product.xUnit.Tests.pdb

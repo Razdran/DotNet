@@ -1,0 +1,17 @@
+C:\Users\martf\Desktop\Tema1\Tema1\ProductTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\martf\Desktop\Tema1\Tema1\ProductTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\martf\Desktop\Tema1\Tema1\ProductTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\martf\Desktop\Tema1\Tema1\ProductTests\bin\Debug\netcoreapp2.1\ProductTests.deps.json
+C:\Users\martf\Desktop\Tema1\Tema1\ProductTests\bin\Debug\netcoreapp2.1\ProductTests.runtimeconfig.json
+C:\Users\martf\Desktop\Tema1\Tema1\ProductTests\bin\Debug\netcoreapp2.1\ProductTests.runtimeconfig.dev.json
+C:\Users\martf\Desktop\Tema1\Tema1\ProductTests\bin\Debug\netcoreapp2.1\ProductTests.dll
+C:\Users\martf\Desktop\Tema1\Tema1\ProductTests\bin\Debug\netcoreapp2.1\ProductTests.pdb
+C:\Users\martf\Desktop\Tema1\Tema1\ProductTests\bin\Debug\netcoreapp2.1\Product.Data.dll
+C:\Users\martf\Desktop\Tema1\Tema1\ProductTests\bin\Debug\netcoreapp2.1\Product.Data.pdb
+C:\Users\martf\Desktop\Tema1\Tema1\ProductTests\obj\Debug\netcoreapp2.1\ProductTests.csprojAssemblyReference.cache
+C:\Users\martf\Desktop\Tema1\Tema1\ProductTests\obj\Debug\netcoreapp2.1\ProductTests.csproj.CoreCompileInputs.cache
+C:\Users\martf\Desktop\Tema1\Tema1\ProductTests\obj\Debug\netcoreapp2.1\ProductTests.AssemblyInfoInputs.cache
+C:\Users\martf\Desktop\Tema1\Tema1\ProductTests\obj\Debug\netcoreapp2.1\ProductTests.AssemblyInfo.cs
+C:\Users\martf\Desktop\Tema1\Tema1\ProductTests\obj\Debug\netcoreapp2.1\ProductTests.csproj.CopyComplete
+C:\Users\martf\Desktop\Tema1\Tema1\ProductTests\obj\Debug\netcoreapp2.1\ProductTests.dll
+C:\Users\martf\Desktop\Tema1\Tema1\ProductTests\obj\Debug\netcoreapp2.1\ProductTests.pdb
